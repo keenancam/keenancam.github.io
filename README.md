@@ -8,7 +8,7 @@
 ![](https://i.ytimg.com/vi/Lv59h1zDl-U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLATObm-vnB6ktqyTsdxG0ES5QN0xA)
 ### -I am an avid anime enjoyer! My favorite anime genre is romance and my favorite anime is called "**_[Special A]_**".
 [Special A]: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8769
-#### Some other animes i enjoy: 
+#### _Some other animes i enjoy_: 
 * Kaiju #8
 * One Piece
 * Solo Leveling
