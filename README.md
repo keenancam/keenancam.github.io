@@ -10,3 +10,6 @@
 [Special A]: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8769
 ### -My academic interest is to overcome my laziness and better myself academically! 
 ![](https://images.stockcake.com/public/0/6/1/06145353-875e-44fe-8bed-09973aa38254_large/studious-intense-reading-stockcake.jpg)
+## Websites I recommend
+### - I recommend using the website called [Meetup]! It is useful for finding groups for sports and other activities!
+[Meetup]: https://www.meetup.com
