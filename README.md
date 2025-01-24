@@ -2,7 +2,7 @@
 # This is my school account, etc
 # This repository will hold assignments 
 # Hi, my name is Keenan i like volleyball, anime, and videogames :)
-# About me
+# _About me_
 ## **_Interest_**
 ### -I absolutely love playing volleyball! I picked it up 4 years ago, after highschool, and have been enjoying it ever since! I often get invited to tournaments and usually play setter or outside position.
 ![](https://i.ytimg.com/vi/Lv59h1zDl-U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLATObm-vnB6ktqyTsdxG0ES5QN0xA)
