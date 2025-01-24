@@ -11,5 +11,7 @@
 ### -My academic interest is to overcome my laziness and better myself academically! 
 ![](https://images.stockcake.com/public/0/6/1/06145353-875e-44fe-8bed-09973aa38254_large/studious-intense-reading-stockcake.jpg)
 ## Websites I recommend
-### - I recommend using the website called [Meetup]! It is useful for finding groups for sports and other activities!
+### - I recommend using the website called [Meetup]! It is useful for finding groups for sports and other activities! This could also be downloaded as an app on phones and other electronics!
 [Meetup]: https://www.meetup.com
+### - Another website I recommend using, [Focusmate]! As someone who struggles staying in task, I use this to website procrastinate less.
+[Focusmate]: https://www.focusmate.com
